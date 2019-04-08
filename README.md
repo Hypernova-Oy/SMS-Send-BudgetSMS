@@ -2,7 +2,7 @@
 
 # SMS-Send-BudgetSMS
 
-SMS::Send::BudgetSMS - SMS::Send driver to send messages via BudgetSMS (ttps://www.budgetsms.net/)
+SMS::Send::BudgetSMS - SMS::Send driver to send messages via BudgetSMS (https://www.budgetsms.net/)
 
 ## VERSION
 
