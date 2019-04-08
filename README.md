@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/Hypernova-Oy/SMS-Send-BudgetSMS.svg?branch=master)](https://travis-ci.com/Hypernova-Oy/SMS-Send-BudgetSMS)
+
 # SMS-Send-BudgetSMS
 
 SMS::Send::BudgetSMS - SMS::Send driver to send messages via BudgetSMS (ttps://www.budgetsms.net/)
