@@ -68,7 +68,7 @@ sub send_sms {
 
 =head1 NAME
 
-SMS::Send::BudgetSMS - SMS::Send driver to send messages via BudgetSMS (ttps://www.budgetsms.net/)
+SMS::Send::BudgetSMS - SMS::Send driver to send messages via BudgetSMS (https://www.budgetsms.net/)
 
 =head1 VERSION
 
@@ -174,6 +174,8 @@ site near you, or see L<https://metacpan.org/module/SMS::Send::BudgetSMS/>.
 =head1 AUTHOR
 
 Lari Taskula <lari.taskula@hypernova.fi>
+
+Sponsor: Hypernova Oy, https://www.hypernova.fi
 
 =head1 COPYRIGHT AND LICENSE
 
