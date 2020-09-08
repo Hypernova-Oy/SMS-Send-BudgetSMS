@@ -103,6 +103,8 @@ site near you, or see https://metacpan.org/module/SMS::Send::BudgetSMS/
 
 Lari Taskula <lari.taskula@hypernova.fi>
 
+Sponsor: Hypernova Oy, https://www.hypernova.fi
+
 ## COPYRIGHT AND LICENSE
 
 This software is copyright (c) 2019 by Hypernova Oy.
