@@ -68,7 +68,7 @@ sub send_sms {
 
 =head1 NAME
 
-SMS::Send::BudgetSMS - SMS::Send driver to send messages via BudgetSMS (https://www.budgetsms.net/)
+SMS::Send::BudgetSMS - SMS::Send driver to send messages via BudgetSMS, L<https://www.budgetsms.net/>
 
 =head1 VERSION
 
