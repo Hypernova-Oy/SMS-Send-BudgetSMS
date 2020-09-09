@@ -102,8 +102,7 @@ site near you, or see https://metacpan.org/module/SMS::Send::BudgetSMS/
 ## AUTHOR
 
 Lari Taskula <lari.taskula@hypernova.fi>
-
-Sponsor: Hypernova Oy, https://www.hypernova.fi
+Hypernova Oy, https://www.hypernova.fi
 
 ## COPYRIGHT AND LICENSE
 

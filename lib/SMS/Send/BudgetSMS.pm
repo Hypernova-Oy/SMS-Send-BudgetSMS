@@ -174,8 +174,7 @@ site near you, or see L<https://metacpan.org/module/SMS::Send::BudgetSMS/>.
 =head1 AUTHOR
 
 Lari Taskula <lari.taskula@hypernova.fi>
-
-Sponsor: Hypernova Oy, L<https://www.hypernova.fi>
+Hypernova Oy, L<https://www.hypernova.fi>
 
 =head1 COPYRIGHT AND LICENSE
 
