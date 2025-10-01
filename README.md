@@ -6,7 +6,7 @@ SMS::Send::BudgetSMS - SMS::Send driver to send messages via BudgetSMS, https://
 
 ## VERSION
 
-version 0.04
+version 0.05
 
 ## SYNOPSIS
 

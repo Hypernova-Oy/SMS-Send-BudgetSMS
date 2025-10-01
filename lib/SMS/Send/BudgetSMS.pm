@@ -8,7 +8,7 @@ use Number::Phone::Normalize;
 
 use base 'SMS::Send::Driver';
 
-our $VERSION = '0.04';
+our $VERSION = '0.05';
 
 sub new {
     my ( $class, %args ) = @_;
