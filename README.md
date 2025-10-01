@@ -19,6 +19,7 @@ version 0.04
       _login    => 'budgetsms_username',
       _userid   => 'budgetsms_userid',
       _password => 'budgetsms_handle',
+      _from     => 'my sender name',
   );
 
   # Send a message

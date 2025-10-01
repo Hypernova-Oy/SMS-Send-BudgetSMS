@@ -38,6 +38,10 @@ sub send_sms {
         die 'to and text are required';
     }
 
+    if ( !$args{'_from'} && !$self->{'_from'} ) {
+        die 'SMS::Send::BudgetSMS->new() or send_sms() requires parameter _from';
+    }
+
     my $to_number = Number::Phone::Normalize->new(
         IntlPrefix => '+'
     )->intl( $args{'to'} );
@@ -50,7 +54,7 @@ sub send_sms {
             userid   => $self->{'_userid'},
             handle   => $self->{'_password'}, # field 'handle'   in HTTP API
             msg      => $args{'text'},
-            from     => $args{'_from'},
+            from     => $args{'_from'} || $self->{'_from'},
             to       => $to_number,
         },
     );
